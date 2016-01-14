@@ -1,0 +1,14 @@
+layout_spectrum: 0.9317937
+color:
+  saturation: 0.0993555
+  brandStrength: 0.5494092
+  lightness: 0.2737015
+  brandColors:
+    - '#FAFAFA'
+    - '#000000'
+    - '#B7A077'
+    - '#FE3000'
+    - '#1DA0F0'
+  rhythmicContrast: 0.03525435
+typography_spectrum: 0.2765843
+name: Cla
